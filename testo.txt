@@ -1,0 +1,21 @@
+hello
+there
+a
+Beim Wiederherstellen Ihrer letzten Browser-Sitzung ist ein Problem 
+aufgetreten. Wählen Sie "Sitzung wiederherstellen", um es erneut 
+zu versuchen.
+
+Falls die Wiederherstellung noch immer nicht funktioniert, so kann 
+dies durch einen bestimmten Tab verursacht werden. Sehen Sie sich 
+die Liste mit den früheren Tabs an, entfernen Sie den Haken von 
+den Tabs, die Sie nicht benötigen, 
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam 
+nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam 
+erat, sed diam voluptua. At vero eos et accusam et justo duo 
+dolores et ea rebum. Stet clita kasd gubergren, no sea takimata 
+sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor 
+sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
+tempor invidunt ut labore et dolore magna aliquyam erat, sed 
+diam voluptua. At vero eos et accusam et justo duo dolores et 
+ea rebum. Stet clita kasd gubergren, no sea takimata sanctus 
+est Lorem ipsum dolor sit amet.
